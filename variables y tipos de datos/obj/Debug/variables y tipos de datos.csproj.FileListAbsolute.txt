@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\bin\Debug\variables y tipos de datos.exe.config
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\bin\Debug\variables y tipos de datos.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\bin\Debug\variables y tipos de datos.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\obj\Debug\variables y tipos de datos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\obj\Debug\variables y tipos de datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\obj\Debug\variables y tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\obj\Debug\variables y tipos de datos.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\variables y tipos de datos\obj\Debug\variables y tipos de datos.pdb
