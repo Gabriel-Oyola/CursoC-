@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\bin\Debug\Estructuras selectivas.exe.config
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\bin\Debug\Estructuras selectivas.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\bin\Debug\Estructuras selectivas.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\obj\Debug\Estructuras selectivas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\obj\Debug\Estructuras selectivas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\obj\Debug\Estructuras selectivas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\obj\Debug\Estructuras selectivas.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras selectivas\obj\Debug\Estructuras selectivas.pdb
