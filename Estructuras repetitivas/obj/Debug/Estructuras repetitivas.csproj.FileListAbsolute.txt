@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\bin\Debug\Estructuras repetitivas.exe.config
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\bin\Debug\Estructuras repetitivas.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\bin\Debug\Estructuras repetitivas.pdb
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\obj\Debug\Estructuras repetitivas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\obj\Debug\Estructuras repetitivas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\obj\Debug\Estructuras repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\obj\Debug\Estructuras repetitivas.exe
+C:\Users\Gabriel\Documents\Cursos de programacion\Estructuras repetitivas\obj\Debug\Estructuras repetitivas.pdb
